@@ -11,6 +11,7 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
+	width:90%;
 }
 
 #layout-menu {
@@ -37,7 +38,7 @@ body {
 	padding-right: 1.0em;
     border: none;
     background: white;
-    text-align: left;
+    text-align: justify;
     vertical-align: top;
 }
 
